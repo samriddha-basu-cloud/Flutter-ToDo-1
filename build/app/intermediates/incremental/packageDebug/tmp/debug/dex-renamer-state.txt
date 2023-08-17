@@ -1,0 +1,4 @@
+#Tue Aug 15 16:01:54 IST 2023
+base.0=/Users/samriddha_basu/Documents/Coding/Flutter/todo_app/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
